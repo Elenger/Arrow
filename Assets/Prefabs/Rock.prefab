@@ -141,5 +141,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e638488b1363eb24db3978937c2b01be, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  p_RopePrefab: {fileID: 8087933215639200294, guid: 3831a67a79a69584eb12188c45b80894,
+  p_RopePrefab: {fileID: 3859131837386708410, guid: 3831a67a79a69584eb12188c45b80894,
     type: 3}
